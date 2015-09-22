@@ -1,0 +1,11 @@
+.a {
+    color: red;
+    border: soid 1px red;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+}
+
+.demo {
+    display:flex;
+}
